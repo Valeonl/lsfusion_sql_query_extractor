@@ -11,4 +11,10 @@
 
 В рамках пилота было реализовано *2* **SQL-запроса** - для вкладки **"Учреждения"** и **"Руководящие документы"**.
 
+# Установка расширения
+Скопируйте репозиторий командой git clone
+<pre><code>git clone https://github.com/Valeonl/lsfusion_sql_query_extractor.git</code></pre>
+Само **расширение** в распакованном виде находится в папке **lsfusion_sql_generator**
+
+![image](https://github.com/user-attachments/assets/a2dca7a0-9cbd-4dc1-a406-4b40a59871cf)
 
